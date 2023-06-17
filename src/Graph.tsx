@@ -63,7 +63,6 @@ elem.setAttribute('aggregates',`
 "top_bid_price":"avg",
 
 "timestamp":"distinct count"}`);
-    
     }
   }
 
